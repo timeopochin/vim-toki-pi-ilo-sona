@@ -6,7 +6,7 @@ If for some reason you're like me and want to code in a language that uses not l
 
 Firstly, this is a plugin for https://www.vim.org/[Vim] (though I personally use https://neovim.io/[Neovim]). If you have no experience with Vim you're out of luck (unless you learn! Vim is a wonderful tool!).
 
-If you have Vim, you likely already know how to install plugins, there are many plugin managers (I use [vim-plug](https://github.com/junegunn/vim-plug)).
+If you have Vim, you likely already know how to install plugins, there are many plugin managers (I use https://github.com/junegunn/vim-plug[vim-plug]).
 
 To install it with vim-plug, you simply add the following to your `vimrc` (or `init.vim` if you use Neovim)
 
